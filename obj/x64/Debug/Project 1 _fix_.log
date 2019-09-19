@@ -1,0 +1,42 @@
+﻿  ofApp.cpp
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(184): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(190): warning C4996: 'ofSoundPlayer::loadSound': Use load
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\sound\ofsoundplayer.h(86): note: see declaration of 'ofSoundPlayer::loadSound'
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(195): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(201): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(208): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(215): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(222): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(229): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(236): warning C4996: 'ofImage_<unsigned char>::loadImage': Use load instead
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\graphics\ofimage.h(227): note: see declaration of 'ofImage_<unsigned char>::loadImage'
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(258): warning C4996: 'ofSoundPlayer::loadSound': Use load
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\sound\ofsoundplayer.h(86): note: see declaration of 'ofSoundPlayer::loadSound'
+c:\users\terry\desktop\of_v0.10.1_vs2017_release\apps\myapps\project 1 _fix_\src\ofapp.cpp(266): warning C4996: 'ofSoundPlayer::loadSound': Use load
+  c:\users\terry\desktop\of_v0.10.1_vs2017_release\libs\openframeworks\sound\ofsoundplayer.h(86): note: see declaration of 'ofSoundPlayer::loadSound'
+     Creating library bin\Project 1 _fix__debug.lib and object bin\Project 1 _fix__debug.exp
+  Project 1 _fix_.vcxproj -> C:\Users\Terry\Desktop\of_v0.10.1_vs2017_release\apps\myApps\Project 1 _fix_\bin\Project 1 _fix__debug.exe
+  
+  	                   2	C:\Users\Terry\Desktop\of_v0.10.1_vs2017_release\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Users\Terry\Desktop\of_v0.10.1_vs2017_release\apps\myApps\Project 1 _fix_\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\Terry\Desktop\of_v0.10.1_vs2017_release\apps\myApps\Project 1 _fix_\bin\fmodexL.dll
+  	  *EXTRA File 		 6942208	C:\Users\Terry\Desktop\of_v0.10.1_vs2017_release\apps\myApps\Project 1 _fix_\bin\FreeImage.dll
+  
+  	                   1	C:\Users\Terry\Desktop\of_v0.10.1_vs2017_release\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Users\Terry\Desktop\of_v0.10.1_vs2017_release\apps\myApps\Project 1 _fix_\bin\fmodex.dll
+  	  *EXTRA File 		 1503232	C:\Users\Terry\Desktop\of_v0.10.1_vs2017_release\apps\myApps\Project 1 _fix_\bin\fmodex64.dll
+  	  *EXTRA File 		 1312768	C:\Users\Terry\Desktop\of_v0.10.1_vs2017_release\apps\myApps\Project 1 _fix_\bin\fmodexL.dll
+  	  *EXTRA File 		 1552384	C:\Users\Terry\Desktop\of_v0.10.1_vs2017_release\apps\myApps\Project 1 _fix_\bin\fmodexL64.dll
