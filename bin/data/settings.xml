@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<group>
+	<rate>3</rate>
+	<leftRate1>1</leftRate1>
+	<leftRate2>1</leftRate2>
+	<leftRate3>1</leftRate3>
+	<topRate1>1</topRate1>
+	<topRate2>1</topRate2>
+	<topRate3>1</topRate3>
+	<rightRate1>1</rightRate1>
+	<rightRate2>1</rightRate2>
+	<rightRate3>1</rightRate3>
+	<velocity>0, -100, 0</velocity>
+</group>
