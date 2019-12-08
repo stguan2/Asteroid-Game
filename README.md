@@ -5,4 +5,4 @@ Project completed using OpenFrameworks version 0.10.1 and Microsoft Visual Studi
 
 Generate project using OpenFrameworks with ofxGui. Move src folder and bin/data folder into respective folders. Run .sln file. Then compile and run with Micrsoft Visual Studio 2017.
 
-Alternatively running .sln file and compiling with Micrsoft Visual Studio 2017 should also work.
+Alternatively running .sln file and compiling with Microsoft Visual Studio 2017 should also work.
